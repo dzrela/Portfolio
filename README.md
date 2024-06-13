@@ -1,5 +1,4 @@
-# Daniel Zenha Rela's Portfolio
-On this page you can find all my portfolio projects.
+# 📊 Daniel Rela's Portfolio
 
 # Project List
 
